@@ -1,0 +1,13 @@
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\bin\Debug\Classes_Nome.exe.config
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\bin\Debug\Classes_Nome.exe
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\bin\Debug\Classes_Nome.pdb
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.FrmAlimento.resources
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.FrmLoja.resources
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.FrmPrefeito.resources
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.exe
+H:\Visual Studio 2022\Projects\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.pdb
